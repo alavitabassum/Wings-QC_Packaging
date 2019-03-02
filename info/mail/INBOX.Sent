@@ -1,0 +1,49 @@
+From info@mailserver  Fri Feb 03 17:52:59 2017
+Received: from 103.55.146.138
+        (SquirrelMail authenticated user info)
+        by 128.199.74.21 with HTTP;
+        Fri, 3 Feb 2017 17:52:59 -0000
+Message-ID: <0d814e6e036185c507f0fd883b28dbc5.squirrel@128.199.74.21>
+Date: Fri, 3 Feb 2017 17:52:59 -0000
+Subject: Test Mail from greenbox
+From: info@greenboxbd.com
+To: shamsuddinlitu@gmail.com
+Cc: m.m.khalidmamun@gmail.com
+Bcc: khalid@contessabd.com
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-IMAPbase: 1486144139 0000000002
+X-UID: 1
+Status: RO
+X-Keywords:                                                                        
+Content-Length: 5
+
+Test
+
+From info@mailserver  Fri Feb 03 18:16:22 2017
+Received: from 103.55.146.138
+        (SquirrelMail authenticated user info)
+        by 128.199.74.21 with HTTP;
+        Fri, 3 Feb 2017 18:16:22 -0000
+Message-ID: <a92dc09c104b45595d52fae38eb3adaa.squirrel@128.199.74.21>
+Date: Fri, 3 Feb 2017 18:16:22 -0000
+Subject: 2nd test
+From: info@greenboxbd.com
+To: khalid@contessabd.com
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-UID: 2
+Status: RO
+X-Keywords:                                                                       
+Content-Length: 20
+
+this is second test
+
