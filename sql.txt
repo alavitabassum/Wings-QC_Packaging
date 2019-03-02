@@ -1,0 +1,4 @@
+    ALTER TABLE tbl_shuttle_map 
+    ADD CONSTRAINT fk_shuttlePoint
+    FOREIGN KEY (shuttleID)
+    REFERENCES tbl_shuttle_point(shuttleID) ON UPDATE CASCADE ON DELETE RESTRICT
